@@ -1,0 +1,4 @@
+name: Noteblock
+version: '1.0'
+main: com.mills.noteblock.Main
+api-version: '1.21'
